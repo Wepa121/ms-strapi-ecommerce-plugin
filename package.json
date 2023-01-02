@@ -1,10 +1,10 @@
 {
   "name": "ms-e-commerce",
   "version": "1.0.0",
-  "description": "This plugin creates Products table, and you can use CRUD operations via GraphQL.",
+  "description": "This plugin creates Products and Orders table, and you can use CRUD operations via GraphQL.",
   "strapi": {
     "name": "e-commerce",
-    "description": "This plugin creates Products table, and you can use CRUD operations via GraphQL",
+    "description": "This plugin creates Products and Orders table, and you can use CRUD operations via GraphQL",
     "kind": "plugin",
     "displayName": "E Commerce"
   },
